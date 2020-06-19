@@ -4,6 +4,25 @@
     box-sizing: border-box;
 }
 
+body{
+    background: #eee;
+    font-family: arial;
+}
+
+
 header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
     background: steelblue;
+    height: 70px;
+}
+
+header a{
+    color: #fff;
+}
+
+.contenedor{
+    height: 500px;
+    text-align: center;
 }
