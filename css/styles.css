@@ -1,0 +1,14 @@
+
+
+footer{
+    background: steelblue;
+    height: 500px;
+    color: #fff;
+}
+
+
+footer h2{
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    font-size: 40px;
+}
